@@ -1,4 +1,4 @@
-# Hello
+# Hello Elixir Application
 
 To start your Phoenix server:
 
@@ -8,12 +8,9 @@ To start your Phoenix server:
 
 Now you can visit [`localhost:4000`](http://localhost:4000) from your browser.
 
-Ready to run in production? Please [check our deployment guides](https://hexdocs.pm/phoenix/deployment.html).
+# To Do
 
-## Learn more
-
-  * Official website: https://www.phoenixframework.org/
-  * Guides: https://hexdocs.pm/phoenix/overview.html
-  * Docs: https://hexdocs.pm/phoenix
-  * Forum: https://elixirforum.com/c/phoenix-forum
-  * Source: https://github.com/phoenixframework/phoenix
+ * Create custom scss for a single pages style
+ * Create js interactions 
+ * Create html structure with form, navbar, title, aside, main and footer 
+ * Ensure it is accessibile and mobile friendly
